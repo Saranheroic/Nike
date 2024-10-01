@@ -2,7 +2,9 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <section id="home" className='w-full'>
+
+    </section>
   )
 }
 

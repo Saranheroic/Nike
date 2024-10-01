@@ -4,7 +4,7 @@ import{Hero,
   Services,
   SpecialOffer,
   CustomerReviews,
-  Subscribe,
+  Subscribe,  
   Footer
 } from "./Sections"
 import Nav from "./Components/Nav";
