@@ -3,7 +3,7 @@ import{Hero,
   SuperQuality,
   Services,
   SpecialOffer,
-  CustomerReviews,
+  CustomerReviews,  
   Subscribe,  
   Footer
 } from "./Sections"
